@@ -2,4 +2,4 @@
 Dies ist eine Portfolio-Website, die ich als Abschlussprojekt im Orientierungskurs entworfen habe.
 Es handelt sich um eine statische Website, die ausschließlich mit HTML und CSS erstellt wurde.
 Preview Link: [https://github.com/Akhlaqi-Abdulshafe/portfolio-final-project-dci-kurs/index.html](https://akhlaqi-abdulshafe.github.io/portfolio-final-project-dci-kurs/)
-![alt text](https://github.com/Akhlaqi-Abdulshafe/portfolio-final-project-dci-kurs/blob/main/imges/fullpage.png)
+![Demo](https://github.com/Akhlaqi-Abdulshafe/portfolio-final-project-dci-kurs/blob/main/imges/fullpage.png)
